@@ -5,23 +5,14 @@ title: Home
 
 # John Doe
 
-**Email:** john at doe.com  
-**Department:** Random Department  
-**University:** University of Randomness  
-**Address:** Street, City, Country
+**Personal website of John Doe**
 
----
-
-## Navigation
-- [Home](index.md)
-- [Projects](projects.md)
+[View My GitHub Profile](https://github.com/yourusername)
 
 ---
 
 ## About Me
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate.
 
 ---
 
@@ -32,10 +23,3 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 ### Technical Reports
 - [Full title](#) — Details of the report
-
----
-
-### Links
-- [Google Scholar](#)
-- [Twitter](#)
-- [LinkedIn](#)
