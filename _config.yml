@@ -7,6 +7,6 @@ plugins:
 
 navigation:
 - name: Home
-  link: ./index.md
+  link: ./
 - name: Projects
   link: ./projects.md
