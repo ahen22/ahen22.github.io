@@ -1,8 +1,17 @@
-remote_theme: "mmistakes/minimal-mistakes@4.26.2"
+remote_theme: vaibhavvikas/jekyll-theme-minimalistic
 title: John Doe
 description: Personal website of John Doe
 
+plugins:
+  - jekyll-sitemap
+
 # Navigation links
-header_pages:
-  - index.md
-  - projects.md
+# header_pages:
+#   - index.md
+#   - projects.md
+
+  navigation:
+  - name: Home
+    link: ./index.md
+  - name: Projects
+    link: ./projects.md
