@@ -5,13 +5,8 @@ description: Personal website of John Doe
 plugins:
   - jekyll-sitemap
 
-# Navigation links
-# header_pages:
-#   - index.md
-#   - projects.md
-
-  navigation:
-  - name: Home
-    link: ./index.md
-  - name: Projects
-    link: ./projects.md
+navigation:
+- name: Home
+  link: ./index.md
+- name: Projects
+  link: ./projects.md
