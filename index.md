@@ -9,7 +9,7 @@ I am a passionate policy professional focusing on energy policy, grid stability,
 
 ---
 **Me outside my school**
-! [gspp](/gspp.JPG)
+![gspp](/gspp.JPG)
 
 ## Professional Experience
 
