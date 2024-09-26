@@ -4,17 +4,11 @@ title: Projects
 ---
 
 # Projects
-
-## Navigation 
-- [Home] (index.md)
-- [Projects] (projects.md)
-
 ---
+## Academic & Consulting Projects
 
-## Current Projects
-- **Project 1:** Description of Project 1.
-- **Project 2:** Description of Project 2.
+### California Council on Science and Technology (CCST)  *Spring 2024*  
+- Developed metrics and dashboards to evaluate science service formats like reports, primers, and expert briefings.  
 
-## Past Projects
-- **Project A:** Description of Project A.
-- **Project B:** Description of Project B.
+### California Public Utilities Commission (CPUC)  *Spring 2024*  
+- Conducted research on utility accountability and safety improvements, providing recommendations for California's electric and gas utility sectors.
