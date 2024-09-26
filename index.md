@@ -47,7 +47,7 @@ I am a passionate policy professional focusing on energy policy, grid stability,
 - Masters in Commerce  
 - Bachelors in Commerce (Hons.)
 
-## Personal Interest 
+## Things I Typically Enjoy 
 
 **This is me at Redwood Forest**
 ![hiking](/hiking.JPG)
@@ -59,4 +59,4 @@ I am a passionate policy professional focusing on energy policy, grid stability,
 ![ferry](/ferry.jpg)
 
 **This is me at the American Museum of Natural History**
-![museum](/museum.jpg)
+![museum](/museum.JPG)
