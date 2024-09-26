@@ -12,7 +12,8 @@ title: Home
 ---
 
 ## About Me
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate.
+
+I am a passionate policy professional focusing on energy policy, grid stability, and decarbonization strategies. With hands-on experience in policy analysis, data-driven decision-making, and stakeholder management, I’ve contributed to impactful projects at the intersection of governance, sustainability, and infrastructure development. Currently, working with the California Public Utility Commission as a part-time Graduate Student Researcher (GSR).
 
 ---
 
@@ -26,17 +27,17 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut enim ad minim veniam
 ### NITI Aayog
 **Young Professional - Aspirational Districts Programme**  
 *New Delhi, India | Jun 2021 – Jul 2023*  
-- Led data analysis and policy planning for 112 districts under **Aspirational Districts Programme**.
+- Led data analysis and policy planning for 112 districts under Aspirational Districts Programme.
 
 ### Indian Institute of Management, Bangalore (IIMB)
 **Mahatma Gandhi National Fellow**  
 *New Delhi, India | Mar 2020 – Dec 2021*  
-- Developed district skill plans and led the **District Skill Committee** in **Chamoli, Uttarakhand**.
+- Developed district skill plans and led the District Skill Committee** in Chamoli, Uttarakhand.
 
 ### Million Sparks Foundation
 **Relationship Manager**  
 *Noida, Uttar Pradesh | May 2019 – Feb 2020*  
-- Led **Saksham Haryana**, impacting 100,000+ teachers, and statewide educational programs in Delhi and Haryana.
+- Led Saksham Haryana, impacting 100,000+ teachers, and statewide educational programs in Delhi and Haryana.
 
 ### Teach for India
 **Fellow & Fellow Advisor**  
@@ -46,12 +47,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut enim ad minim veniam
 ## Academic & Consulting Projects
 
 ### California Council on Science and Technology (CCST)  
-**Evaluating Science Service Impact**  
 *Spring 2024*  
 - Developed metrics and dashboards to evaluate science service formats like reports, primers, and expert briefings.  
 
 ### California Public Utilities Commission (CPUC)  
-**Powering Accountability**  
 *Spring 2024*  
 - Conducted research on utility accountability and safety improvements, providing recommendations for California's electric and gas utility sectors.
 
@@ -60,7 +59,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut enim ad minim veniam
 - Master in Development Practices 
 
 **University of Delhi New Delhi, India**
-- Masters in Commerece 
+- Masters in Commerce  
 - Bachelors in Commerce (Hons.)
 
 
