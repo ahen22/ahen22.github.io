@@ -36,14 +36,6 @@ I am a passionate policy professional focusing on energy policy, grid stability,
 *New Delhi, India | May 2017 – May 2019*  
 - Mentored fellows and created educational strategies for 750+ students, improving academic outcomes.
 
-## Academic & Consulting Projects
-
-### California Council on Science and Technology (CCST)  *Spring 2024*  
-- Developed metrics and dashboards to evaluate science service formats like reports, primers, and expert briefings.  
-
-### California Public Utilities Commission (CPUC)  *Spring 2024*  
-- Conducted research on utility accountability and safety improvements, providing recommendations for California's electric and gas utility sectors.
-
 ## Education History
 **University of California-Berkeley, Goldman School of Public Policy Berkeley, CA, USA**
 - Master in Development Practices 
