@@ -3,14 +3,6 @@ layout: default
 title: Home
 ---
 
-# Neha Malhotra
-
-**Personal website of Neha Malhotra**
-
-[View My GitHub Profile](https://github.com/yourusername)
-
----
-
 ## About Me
 
 I am a passionate policy professional focusing on energy policy, grid stability, and decarbonization strategies. With hands-on experience in policy analysis, data-driven decision-making, and stakeholder management, I’ve contributed to impactful projects at the intersection of governance, sustainability, and infrastructure development. Currently, working with the California Public Utility Commission as a part-time Graduate Student Researcher (GSR).
