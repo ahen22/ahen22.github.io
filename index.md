@@ -46,12 +46,10 @@ I am a passionate policy professional focusing on energy policy, grid stability,
 
 ## Academic & Consulting Projects
 
-### California Council on Science and Technology (CCST)  
-*Spring 2024*  
+### California Council on Science and Technology (CCST)  *Spring 2024*  
 - Developed metrics and dashboards to evaluate science service formats like reports, primers, and expert briefings.  
 
-### California Public Utilities Commission (CPUC)  
-*Spring 2024*  
+### California Public Utilities Commission (CPUC)  *Spring 2024*  
 - Conducted research on utility accountability and safety improvements, providing recommendations for California's electric and gas utility sectors.
 
 ## Education History
@@ -62,9 +60,3 @@ I am a passionate policy professional focusing on energy policy, grid stability,
 - Masters in Commerce  
 - Bachelors in Commerce (Hons.)
 
-
-### Peer-reviewed
-- [Full title](#) — Names of the authors
-
-### Technical Reports
-- [Full title](#) — Details of the report
