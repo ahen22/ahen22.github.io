@@ -55,8 +55,5 @@ I am a passionate policy professional focusing on energy policy, grid stability,
 **Somewhere in nature**
 ![nature](/nature.JPG)
 
-**This is me enjoying ferry**
-![ferry](/ferry.jpg)
-
 **This is me at the American Museum of Natural History**
 ![museum](/museum.JPG)
