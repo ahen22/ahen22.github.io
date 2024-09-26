@@ -16,7 +16,15 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut enim ad minim veniam
 
 ---
 
-## Publications
+## Education History
+University of California-Berkeley, Goldman School of Public Policy Berkeley, CA, USA
+Masters in Development Practices (Joint Japan World Bank Graduate Scholar) 
+
+University of Delhi New Delhi, India
+Masters in Commerce (Major in Finance, Economics and International Business) 
+
+Bachelors in Commerce (Hons.)
+
 
 ### Peer-reviewed
 - [Full title](#) — Names of the authors
