@@ -60,3 +60,13 @@ I am a passionate policy professional focusing on energy policy, grid stability,
 - Masters in Commerce  
 - Bachelors in Commerce (Hons.)
 
+# Projects 
+
+## Navigation
+- [Home] (index.md)
+- [Projects] (projects.md)
+
+## Current Projects
+- **Project 1:**Description 1**
+- **Project 2:**Description 2**
+
