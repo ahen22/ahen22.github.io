@@ -9,6 +9,7 @@ I am a passionate policy professional focusing on energy policy, grid stability,
 
 ---
 **Me outside my school**
+
 ![gspp](/gspp.JPG)
 
 ## Professional Experience
@@ -45,3 +46,17 @@ I am a passionate policy professional focusing on energy policy, grid stability,
 **University of Delhi New Delhi, India**
 - Masters in Commerce  
 - Bachelors in Commerce (Hons.)
+
+## Personal Interest 
+
+**This is me at Redwood Forest**
+![hiking](/hiking.JPG)
+
+**Somewhere in nature**
+![nature](/nature.JPG)
+
+**This is me enjoying ferry**
+![ferry](/ferry.jpg)
+
+**This is me at the American Museum of Natural History**
+![museum](/museum.jpg)
