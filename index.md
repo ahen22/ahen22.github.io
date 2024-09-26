@@ -3,9 +3,9 @@ layout: default
 title: Home
 ---
 
-# John Doe
+# Neha Malhotra
 
-**Personal website of John Doe**
+**Personal website of Neha Malhotra**
 
 [View My GitHub Profile](https://github.com/yourusername)
 
